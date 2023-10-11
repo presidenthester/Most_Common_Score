@@ -1,0 +1,191 @@
+Week,Day,Date,Time,Winner/tie,,Loser/tie,,Pts,Pts.1,YdsW,TOW,YdsL,TOL
+1,Fri,1970-09-18,11:00PM,Los Angeles Rams,,St. Louis Cardinals,boxscore,34,13,342,1,327,4
+1,Sat,1970-09-19,8:00PM,Chicago Bears,@,New York Giants,boxscore,24,16,256,3,311,3
+1,Sun,1970-09-20,1:00PM,Denver Broncos,@,Buffalo Bills,boxscore,25,10,282,3,149,4
+1,Sun,1970-09-20,1:00PM,Cincinnati Bengals,,Oakland Raiders,boxscore,31,21,364,1,291,2
+1,Sun,1970-09-20,1:00PM,Dallas Cowboys,@,Philadelphia Eagles,boxscore,17,7,297,3,225,4
+1,Sun,1970-09-20,1:00PM,Boston Patriots,,Miami Dolphins,boxscore,27,14,301,1,214,3
+1,Sun,1970-09-20,1:00PM,Houston Oilers,@,Pittsburgh Steelers,boxscore,19,7,305,0,214,1
+1,Sun,1970-09-20,1:30PM,Atlanta Falcons,@,New Orleans Saints,boxscore,14,3,265,2,235,2
+1,Sun,1970-09-20,2:00PM,Detroit Lions,@,Green Bay Packers,boxscore,40,0,398,1,114,3
+1,Sun,1970-09-20,4:00PM,Baltimore Colts,@,San Diego Chargers,boxscore,16,14,303,3,288,1
+1,Sun,1970-09-20,4:00PM,Minnesota Vikings,,Kansas City Chiefs,boxscore,27,10,220,3,218,4
+1,Sun,1970-09-20,4:00PM,San Francisco 49ers,,Washington Redskins,boxscore,26,17,324,1,209,2
+1,Mon,1970-09-21,9:00PM,Cleveland Browns,,New York Jets,boxscore,31,21,221,0,454,4
+2,Sun,1970-09-27,1:00PM,Los Angeles Rams,@,Buffalo Bills,boxscore,19,0,364,3,177,4
+2,Sun,1970-09-27,1:00PM,Detroit Lions,,Cincinnati Bengals,boxscore,38,3,285,0,140,4
+2,Sun,1970-09-27,1:00PM,New York Jets,@,Boston Patriots,boxscore,31,21,283,2,209,3
+2,Sun,1970-09-27,2:00PM,Green Bay Packers,,Atlanta Falcons,boxscore,27,24,344,3,384,5
+2,Sun,1970-09-27,2:00PM,Chicago Bears,,Philadelphia Eagles,boxscore,20,16,181,1,323,1
+2,Sun,1970-09-27,2:00PM,St. Louis Cardinals,,Washington Redskins,boxscore,27,17,297,3,254,3
+2,Sun,1970-09-27,2:00PM,Dallas Cowboys,,New York Giants,boxscore,28,10,360,2,238,3
+2,Sun,1970-09-27,2:00PM,Miami Dolphins,@,Houston Oilers,boxscore,20,10,284,1,307,3
+2,Sun,1970-09-27,2:00PM,Minnesota Vikings,,New Orleans Saints,boxscore,26,0,291,2,131,4
+2,Sun,1970-09-27,4:00PM,San Francisco 49ers,,Cleveland Browns,boxscore,34,31,435,0,448,4
+2,Sun,1970-09-27,4:00PM,Denver Broncos,,Pittsburgh Steelers,boxscore,16,13,226,4,245,3
+2,Sun,1970-09-27,4:00PM,San Diego Chargers,,Oakland Raiders,boxscore,27,27,344,3,405,0
+2,Mon,1970-09-28,9:00PM,Kansas City Chiefs,@,Baltimore Colts,boxscore,44,24,295,4,309,7
+3,Sat,1970-10-03,8:00PM,Miami Dolphins,,Oakland Raiders,boxscore,20,13,279,1,334,4
+3,Sat,1970-10-03,9:00PM,Cleveland Browns,,Pittsburgh Steelers,boxscore,15,7,199,2,263,4
+3,Sun,1970-10-04,1:00PM,Atlanta Falcons,,San Francisco 49ers,boxscore,21,20,356,2,326,2
+3,Sun,1970-10-04,1:00PM,Buffalo Bills,,New York Jets,boxscore,34,31,401,5,337,0
+3,Sun,1970-10-04,1:00PM,Houston Oilers,@,Cincinnati Bengals,boxscore,20,13,239,4,248,2
+3,Sun,1970-10-04,1:00PM,Baltimore Colts,@,Boston Patriots,boxscore,14,6,236,1,240,1
+3,Sun,1970-10-04,1:00PM,Washington Redskins,@,Philadelphia Eagles,boxscore,33,21,316,1,237,4
+3,Sun,1970-10-04,2:00PM,St. Louis Cardinals,,Dallas Cowboys,boxscore,20,7,309,2,269,2
+3,Sun,1970-10-04,2:00PM,New Orleans Saints,,New York Giants,boxscore,14,10,183,3,361,3
+3,Sun,1970-10-04,4:00PM,Denver Broncos,,Kansas City Chiefs,boxscore,26,13,240,1,121,5
+3,Sun,1970-10-04,4:00PM,Green Bay Packers,,Minnesota Vikings,boxscore,13,10,173,2,216,3
+3,Sun,1970-10-04,4:00PM,Los Angeles Rams,,San Diego Chargers,boxscore,37,10,277,1,147,4
+3,Mon,1970-10-05,9:00PM,Detroit Lions,,Chicago Bears,boxscore,28,14,350,1,177,3
+4,Sat,1970-10-10,8:45PM,Miami Dolphins,@,New York Jets,boxscore,20,6,312,1,263,3
+4,Sun,1970-10-11,1:00PM,Pittsburgh Steelers,,Buffalo Bills,boxscore,23,10,209,0,285,5
+4,Sun,1970-10-11,1:00PM,Cleveland Browns,,Cincinnati Bengals,boxscore,30,27,346,3,236,1
+4,Sun,1970-10-11,1:00PM,Washington Redskins,,Detroit Lions,boxscore,31,10,352,1,251,1
+4,Sun,1970-10-11,1:00PM,New York Giants,,Philadelphia Eagles,boxscore,30,23,330,2,367,4
+4,Sun,1970-10-11,2:00PM,Dallas Cowboys,,Atlanta Falcons,boxscore,13,0,257,3,128,3
+4,Sun,1970-10-11,2:00PM,Minnesota Vikings,@,Chicago Bears,boxscore,24,0,342,3,137,6
+4,Sun,1970-10-11,2:00PM,St. Louis Cardinals,,New Orleans Saints,boxscore,24,17,432,3,342,2
+4,Sun,1970-10-11,4:00PM,Baltimore Colts,@,Houston Oilers,boxscore,24,20,301,2,365,1
+4,Sun,1970-10-11,4:00PM,Oakland Raiders,,Denver Broncos,boxscore,35,23,522,1,285,1
+4,Sun,1970-10-11,4:00PM,Kansas City Chiefs,,Boston Patriots,boxscore,23,10,346,5,105,7
+4,Sun,1970-10-11,4:00PM,San Francisco 49ers,@,Los Angeles Rams,boxscore,20,6,243,2,205,4
+4,Mon,1970-10-12,9:00PM,Green Bay Packers,@,San Diego Chargers,boxscore,22,20,341,2,257,5
+5,Sun,1970-10-18,1:00PM,Miami Dolphins,@,Buffalo Bills,boxscore,33,14,301,1,390,6
+5,Sun,1970-10-18,1:00PM,Detroit Lions,@,Cleveland Browns,boxscore,41,24,315,2,318,6
+5,Sun,1970-10-18,1:00PM,Baltimore Colts,@,New York Jets,boxscore,29,22,254,4,398,6
+5,Sun,1970-10-18,1:00PM,St. Louis Cardinals,@,Philadelphia Eagles,boxscore,35,20,299,2,278,3
+5,Sun,1970-10-18,1:00PM,New York Giants,@,Boston Patriots,boxscore,16,0,224,0,155,3
+5,Sun,1970-10-18,2:00PM,San Diego Chargers,@,Chicago Bears,boxscore,20,7,357,0,217,2
+5,Sun,1970-10-18,2:00PM,Los Angeles Rams,@,Green Bay Packers,boxscore,31,21,277,0,319,3
+5,Sun,1970-10-18,2:00PM,Pittsburgh Steelers,@,Houston Oilers,boxscore,7,3,241,4,259,4
+5,Sun,1970-10-18,4:00PM,Denver Broncos,,Atlanta Falcons,boxscore,24,10,223,1,216,5
+5,Sun,1970-10-18,4:00PM,Kansas City Chiefs,@,Cincinnati Bengals,boxscore,27,19,274,0,256,1
+5,Sun,1970-10-18,4:00PM,Minnesota Vikings,,Dallas Cowboys,boxscore,54,13,258,0,286,4
+5,Sun,1970-10-18,4:00PM,San Francisco 49ers,,New Orleans Saints,boxscore,20,20,337,4,283,4
+5,Mon,1970-10-19,9:00PM,Oakland Raiders,,Washington Redskins,boxscore,34,20,458,1,301,0
+6,Sun,1970-10-25,1:00PM,Atlanta Falcons,,New Orleans Saints,boxscore,32,14,274,2,272,3
+6,Sun,1970-10-25,1:00PM,Buffalo Bills,@,New York Jets,boxscore,10,6,193,2,119,2
+6,Sun,1970-10-25,1:00PM,Washington Redskins,,Cincinnati Bengals,boxscore,20,0,324,1,221,4
+6,Sun,1970-10-25,1:00PM,Cleveland Browns,@,Miami Dolphins,boxscore,28,0,339,3,165,3
+6,Sun,1970-10-25,1:00PM,New York Giants,,St. Louis Cardinals,boxscore,35,17,371,1,329,2
+6,Sun,1970-10-25,2:00PM,Detroit Lions,@,Chicago Bears,boxscore,16,10,187,1,310,4
+6,Sun,1970-10-25,2:00PM,Baltimore Colts,,Boston Patriots,boxscore,27,3,272,1,170,4
+6,Sun,1970-10-25,2:00PM,Green Bay Packers,,Philadelphia Eagles,boxscore,30,17,241,3,311,5
+6,Sun,1970-10-25,4:00PM,Dallas Cowboys,@,Kansas City Chiefs,boxscore,27,16,327,1,236,3
+6,Sun,1970-10-25,4:00PM,San Francisco 49ers,,Denver Broncos,boxscore,19,14,362,0,283,3
+6,Sun,1970-10-25,4:00PM,San Diego Chargers,,Houston Oilers,boxscore,31,31,233,2,448,3
+6,Sun,1970-10-25,4:00PM,Oakland Raiders,,Pittsburgh Steelers,boxscore,31,14,346,2,266,5
+6,Mon,1970-10-26,9:00PM,Minnesota Vikings,,Los Angeles Rams,boxscore,13,3,172,2,100,5
+7,Sun,1970-11-01,1:00PM,Chicago Bears,@,Atlanta Falcons,boxscore,23,14,154,2,278,3
+7,Sun,1970-11-01,1:00PM,Buffalo Bills,@,Boston Patriots,boxscore,45,10,364,2,251,5
+7,Sun,1970-11-01,1:00PM,San Diego Chargers,@,Cleveland Browns,boxscore,27,10,321,0,309,4
+7,Sun,1970-11-01,1:00PM,Minnesota Vikings,@,Detroit Lions,boxscore,30,17,387,4,254,3
+7,Sun,1970-11-01,1:00PM,New York Giants,@,New York Jets,boxscore,22,10,240,0,237,4
+7,Sun,1970-11-01,2:00PM,Baltimore Colts,,Miami Dolphins,boxscore,35,0,239,1,383,4
+7,Sun,1970-11-01,2:00PM,St. Louis Cardinals,,Houston Oilers,boxscore,44,0,454,0,160,3
+7,Sun,1970-11-01,2:00PM,Dallas Cowboys,,Philadelphia Eagles,boxscore,21,17,278,1,396,4
+7,Sun,1970-11-01,2:00PM,Los Angeles Rams,@,New Orleans Saints,boxscore,30,17,408,5,212,3
+7,Sun,1970-11-01,4:00PM,Washington Redskins,@,Denver Broncos,boxscore,19,3,199,2,246,5
+7,Sun,1970-11-01,4:00PM,San Francisco 49ers,,Green Bay Packers,boxscore,26,10,258,3,308,6
+7,Sun,1970-11-01,4:00PM,Oakland Raiders,@,Kansas City Chiefs,boxscore,17,17,278,0,321,2
+7,Mon,1970-11-02,9:00PM,Pittsburgh Steelers,,Cincinnati Bengals,boxscore,21,10,281,1,282,3
+8,Sun,1970-11-08,1:00PM,Cincinnati Bengals,@,Buffalo Bills,boxscore,43,14,320,0,377,6
+8,Sun,1970-11-08,1:00PM,New York Giants,,Dallas Cowboys,boxscore,23,20,338,3,263,0
+8,Sun,1970-11-08,1:00PM,Philadelphia Eagles,,Miami Dolphins,boxscore,24,17,291,2,245,4
+8,Sun,1970-11-08,1:00PM,Minnesota Vikings,@,Washington Redskins,boxscore,19,10,163,0,334,1
+8,Sun,1970-11-08,1:00PM,Pittsburgh Steelers,,New York Jets,boxscore,21,17,277,2,246,3
+8,Sun,1970-11-08,2:00PM,San Francisco 49ers,@,Chicago Bears,boxscore,37,16,387,1,178,2
+8,Sun,1970-11-08,2:00PM,St. Louis Cardinals,,Boston Patriots,boxscore,31,0,283,1,195,4
+8,Sun,1970-11-08,2:00PM,New Orleans Saints,,Detroit Lions,boxscore,19,17,272,0,278,6
+8,Sun,1970-11-08,2:00PM,Kansas City Chiefs,,Houston Oilers,boxscore,24,9,221,0,326,3
+8,Sun,1970-11-08,4:00PM,Los Angeles Rams,,Atlanta Falcons,boxscore,10,10,364,3,194,1
+8,Sun,1970-11-08,4:00PM,Oakland Raiders,,Cleveland Browns,boxscore,23,20,294,2,240,3
+8,Sun,1970-11-08,4:00PM,San Diego Chargers,,Denver Broncos,boxscore,24,21,235,0,341,1
+8,Mon,1970-11-09,9:00PM,Baltimore Colts,@,Green Bay Packers,boxscore,13,10,290,2,218,4
+9,Sun,1970-11-15,1:00PM,Philadelphia Eagles,,Atlanta Falcons,boxscore,13,13,230,0,236,2
+9,Sun,1970-11-15,1:00PM,Cincinnati Bengals,,Cleveland Browns,boxscore,14,10,333,3,296,1
+9,Sun,1970-11-15,1:00PM,Kansas City Chiefs,@,Pittsburgh Steelers,boxscore,31,14,424,3,202,6
+9,Sun,1970-11-15,1:00PM,Miami Dolphins,,New Orleans Saints,boxscore,21,10,406,4,319,3
+9,Sun,1970-11-15,1:00PM,San Diego Chargers,@,Boston Patriots,boxscore,16,14,267,0,179,2
+9,Sun,1970-11-15,1:00PM,New York Giants,,Washington Redskins,boxscore,35,33,485,2,411,1
+9,Sun,1970-11-15,2:00PM,Baltimore Colts,,Buffalo Bills,boxscore,17,17,345,1,271,2
+9,Sun,1970-11-15,2:00PM,Green Bay Packers,,Chicago Bears,boxscore,20,19,319,1,282,0
+9,Sun,1970-11-15,2:00PM,Minnesota Vikings,,Detroit Lions,boxscore,24,20,289,2,185,2
+9,Sun,1970-11-15,2:00PM,San Francisco 49ers,@,Houston Oilers,boxscore,30,20,376,1,268,0
+9,Sun,1970-11-15,3:00PM,Oakland Raiders,@,Denver Broncos,boxscore,24,19,325,2,312,3
+9,Sun,1970-11-15,4:00PM,New York Jets,@,Los Angeles Rams,boxscore,31,20,386,2,325,4
+9,Mon,1970-11-16,9:00PM,St. Louis Cardinals,@,Dallas Cowboys,boxscore,38,0,392,1,243,6
+10,Sun,1970-11-22,1:00PM,Los Angeles Rams,@,Atlanta Falcons,boxscore,17,7,222,2,272,5
+10,Sun,1970-11-22,1:00PM,Cincinnati Bengals,,Pittsburgh Steelers,boxscore,34,7,332,1,321,6
+10,Sun,1970-11-22,1:00PM,Cleveland Browns,,Houston Oilers,boxscore,28,14,348,0,326,4
+10,Sun,1970-11-22,1:00PM,Miami Dolphins,,Baltimore Colts,boxscore,34,17,251,0,296,4
+10,Sun,1970-11-22,1:00PM,Dallas Cowboys,@,Washington Redskins,boxscore,45,21,370,1,304,2
+10,Sun,1970-11-22,1:00PM,Denver Broncos,@,New Orleans Saints,boxscore,31,6,452,1,263,3
+10,Sun,1970-11-22,1:00PM,Detroit Lions,,San Francisco 49ers,boxscore,28,7,298,0,190,4
+10,Sun,1970-11-22,1:00PM,New York Jets,,Boston Patriots,boxscore,17,3,293,2,80,1
+10,Sun,1970-11-22,2:00PM,Chicago Bears,,Buffalo Bills,boxscore,31,13,241,2,253,5
+10,Sun,1970-11-22,2:00PM,Minnesota Vikings,,Green Bay Packers,boxscore,10,3,202,0,282,2
+10,Sun,1970-11-22,4:00PM,Kansas City Chiefs,,St. Louis Cardinals,boxscore,6,6,212,3,272,4
+10,Sun,1970-11-22,4:00PM,Oakland Raiders,,San Diego Chargers,boxscore,20,17,396,1,331,2
+10,Mon,1970-11-23,9:00PM,Philadelphia Eagles,,New York Giants,boxscore,23,20,281,2,287,3
+11,Thu,1970-11-26,12:30PM,Detroit Lions,,Oakland Raiders,boxscore,28,14,399,3,248,2
+11,Thu,1970-11-26,3:30PM,Dallas Cowboys,,Green Bay Packers,boxscore,16,3,352,0,129,1
+11,Sun,1970-11-29,1:00PM,Boston Patriots,@,Buffalo Bills,boxscore,14,10,167,4,325,2
+11,Sun,1970-11-29,1:00PM,Cincinnati Bengals,,New Orleans Saints,boxscore,26,6,297,1,362,5
+11,Sun,1970-11-29,1:00PM,Pittsburgh Steelers,,Cleveland Browns,boxscore,28,9,425,2,171,1
+11,Sun,1970-11-29,1:00PM,New York Jets,,Minnesota Vikings,boxscore,20,10,261,0,167,4
+11,Sun,1970-11-29,1:00PM,New York Giants,@,Washington Redskins,boxscore,27,24,401,1,356,2
+11,Sun,1970-11-29,2:00PM,Baltimore Colts,,Chicago Bears,boxscore,21,20,308,5,235,0
+11,Sun,1970-11-29,3:00PM,St. Louis Cardinals,,Philadelphia Eagles,boxscore,23,14,337,1,276,2
+11,Sun,1970-11-29,3:00PM,Houston Oilers,,Denver Broncos,boxscore,31,21,332,3,247,5
+11,Sun,1970-11-29,4:00PM,Kansas City Chiefs,,San Diego Chargers,boxscore,26,14,329,1,196,2
+11,Sun,1970-11-29,4:00PM,Los Angeles Rams,@,San Francisco 49ers,boxscore,30,13,220,1,285,2
+11,Mon,1970-11-30,9:00PM,Miami Dolphins,@,Atlanta Falcons,boxscore,20,7,304,2,271,1
+12,Sat,1970-12-05,1:15PM,Minnesota Vikings,,Chicago Bears,boxscore,16,13,281,1,129,3
+12,Sun,1970-12-06,1:00PM,New York Giants,,Buffalo Bills,boxscore,20,6,270,3,180,2
+12,Sun,1970-12-06,1:00PM,Detroit Lions,,St. Louis Cardinals,boxscore,16,3,279,2,146,5
+12,Sun,1970-12-06,1:00PM,Green Bay Packers,@,Pittsburgh Steelers,boxscore,20,12,317,4,274,6
+12,Sun,1970-12-06,1:00PM,Miami Dolphins,,Boston Patriots,boxscore,37,20,301,2,243,0
+12,Sun,1970-12-06,1:00PM,Oakland Raiders,@,New York Jets,boxscore,14,13,250,3,257,2
+12,Sun,1970-12-06,2:00PM,Baltimore Colts,,Philadelphia Eagles,boxscore,29,10,249,2,186,4
+12,Sun,1970-12-06,2:00PM,Kansas City Chiefs,,Denver Broncos,boxscore,16,0,222,0,146,6
+12,Sun,1970-12-06,4:00PM,San Francisco 49ers,,Atlanta Falcons,boxscore,24,20,354,3,205,1
+12,Sun,1970-12-06,4:00PM,Cincinnati Bengals,@,San Diego Chargers,boxscore,17,14,136,1,280,4
+12,Sun,1970-12-06,4:00PM,Dallas Cowboys,,Washington Redskins,boxscore,34,0,424,1,166,4
+12,Sun,1970-12-06,4:00PM,Los Angeles Rams,,New Orleans Saints,boxscore,34,16,445,0,255,0
+12,Mon,1970-12-07,9:00PM,Cleveland Browns,@,Houston Oilers,boxscore,21,10,344,4,223,1
+13,Sat,1970-12-12,1:15PM,Dallas Cowboys,@,Cleveland Browns,boxscore,6,2,174,1,299,4
+13,Sat,1970-12-12,4:00PM,Oakland Raiders,,Kansas City Chiefs,boxscore,20,6,324,1,121,1
+13,Sun,1970-12-13,12:00PM,Minnesota Vikings,@,Boston Patriots,boxscore,35,14,429,4,182,4
+13,Sun,1970-12-13,1:00PM,Atlanta Falcons,,Pittsburgh Steelers,boxscore,27,16,221,2,193,6
+13,Sun,1970-12-13,1:00PM,Baltimore Colts,@,Buffalo Bills,boxscore,20,14,275,1,333,3
+13,Sun,1970-12-13,1:00PM,Washington Redskins,,Philadelphia Eagles,boxscore,24,6,316,1,206,1
+13,Sun,1970-12-13,2:00PM,Chicago Bears,,Green Bay Packers,boxscore,35,17,392,3,180,2
+13,Sun,1970-12-13,2:00PM,Cincinnati Bengals,@,Houston Oilers,boxscore,30,20,338,1,353,4
+13,Sun,1970-12-13,2:00PM,New York Giants,@,St. Louis Cardinals,boxscore,34,17,361,0,344,2
+13,Sun,1970-12-13,2:00PM,San Francisco 49ers,@,New Orleans Saints,boxscore,38,27,330,1,353,4
+13,Sun,1970-12-13,4:00PM,San Diego Chargers,@,Denver Broncos,boxscore,17,17,231,1,264,3
+13,Sun,1970-12-13,4:00PM,Miami Dolphins,,New York Jets,boxscore,16,10,269,3,214,3
+13,Mon,1970-12-14,9:00PM,Detroit Lions,@,Los Angeles Rams,boxscore,28,23,343,1,381,1
+14,Sat,1970-12-19,3:00PM,Baltimore Colts,,New York Jets,boxscore,35,20,457,2,212,0
+14,Sun,1970-12-20,1:00PM,Minnesota Vikings,@,Atlanta Falcons,boxscore,37,7,398,3,131,4
+14,Sun,1970-12-20,1:00PM,Miami Dolphins,,Buffalo Bills,boxscore,45,7,325,1,197,4
+14,Sun,1970-12-20,1:00PM,Cincinnati Bengals,,Boston Patriots,boxscore,45,7,424,0,149,2
+14,Sun,1970-12-20,1:00PM,Washington Redskins,,St. Louis Cardinals,boxscore,28,27,287,3,250,3
+14,Sun,1970-12-20,1:00PM,Detroit Lions,,Green Bay Packers,boxscore,20,0,162,4,124,5
+14,Sun,1970-12-20,1:00PM,Los Angeles Rams,@,New York Giants,boxscore,31,3,341,0,216,2
+14,Sun,1970-12-20,1:00PM,Philadelphia Eagles,,Pittsburgh Steelers,boxscore,30,20,383,4,341,2
+14,Sun,1970-12-20,2:00PM,Chicago Bears,@,New Orleans Saints,boxscore,24,3,376,4,191,4
+14,Sun,1970-12-20,2:00PM,Dallas Cowboys,,Houston Oilers,boxscore,52,10,549,3,151,5
+14,Sun,1970-12-20,3:00PM,Cleveland Browns,@,Denver Broncos,boxscore,27,13,283,3,280,4
+14,Sun,1970-12-20,4:00PM,San Diego Chargers,,Kansas City Chiefs,boxscore,31,13,466,1,237,0
+14,Sun,1970-12-20,4:00PM,San Francisco 49ers,@,Oakland Raiders,boxscore,38,7,296,0,358,9
+,,Playoffs,,,,,,,,,,,
+Division,Sat,1970-12-26,1:30PM,Baltimore Colts,,Cincinnati Bengals,boxscore,17,0,299,0,139,1
+Division,Sat,1970-12-26,3:30PM,Dallas Cowboys,,Detroit Lions,boxscore,5,0,231,1,156,3
+Division,Sun,1970-12-27,1:00PM,San Francisco 49ers,@,Minnesota Vikings,boxscore,17,14,289,3,241,4
+Division,Sun,1970-12-27,4:00PM,Oakland Raiders,,Miami Dolphins,boxscore,21,14,307,2,242,1
+ConfChamp,Sun,1971-01-03,2:00PM,Baltimore Colts,,Oakland Raiders,boxscore,27,17,363,0,336,4
+ConfChamp,Sun,1971-01-03,5:00PM,Dallas Cowboys,@,San Francisco 49ers,boxscore,17,10,319,0,307,2
+SuperBowl,Sun,1971-01-17,1:50PM,Baltimore Colts,N,Dallas Cowboys,boxscore,16,13,329,7,217,4

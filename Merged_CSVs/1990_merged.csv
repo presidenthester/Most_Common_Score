@@ -1,0 +1,237 @@
+Week,Day,Date,Time,Winner/tie,Unnamed: 5,Loser/tie,Unnamed: 7,YdsW,TOW,YdsL,TOL,Combined_Pts
+1,Sun,1990-09-09,1:00PM,Chicago Bears,,Seattle Seahawks,boxscore,366.0,1.0,132.0,3.0,17  -  0
+1,Sun,1990-09-09,1:00PM,Washington Redskins,,Phoenix Cardinals,boxscore,347.0,0.0,294.0,5.0,31  -  0
+1,Sun,1990-09-09,1:00PM,Tampa Bay Buccaneers,@,Detroit Lions,boxscore,375.0,2.0,258.0,6.0,38  -  21
+1,Sun,1990-09-09,1:00PM,Green Bay Packers,,Los Angeles Rams,boxscore,333.0,1.0,408.0,5.0,36  -  24
+1,Sun,1990-09-09,1:00PM,Kansas City Chiefs,,Minnesota Vikings,boxscore,304.0,1.0,354.0,3.0,24  -  21
+1,Sun,1990-09-09,4:00PM,Atlanta Falcons,,Houston Oilers,boxscore,301.0,2.0,418.0,6.0,47  -  27
+1,Sun,1990-09-09,4:00PM,Buffalo Bills,,Indianapolis Colts,boxscore,383.0,1.0,229.0,2.0,26  -  10
+1,Sun,1990-09-09,4:00PM,Cincinnati Bengals,,New York Jets,boxscore,303.0,2.0,342.0,3.0,25  -  20
+1,Sun,1990-09-09,4:00PM,Cleveland Browns,,Pittsburgh Steelers,boxscore,158.0,1.0,210.0,3.0,13  -  3
+1,Sun,1990-09-09,4:00PM,Dallas Cowboys,,San Diego Chargers,boxscore,249.0,1.0,212.0,2.0,17  -  14
+1,Sun,1990-09-09,4:00PM,Los Angeles Raiders,,Denver Broncos,boxscore,194.0,2.0,196.0,4.0,14  -  9
+1,Sun,1990-09-09,4:00PM,Miami Dolphins,@,New England Patriots,boxscore,432.0,4.0,265.0,0.0,27  -  24
+1,Sun,1990-09-09,8:00PM,New York Giants,,Philadelphia Eagles,boxscore,227.0,1.0,295.0,3.0,27  -  20
+1,Mon,1990-09-10,9:00PM,San Francisco 49ers,@,New Orleans Saints,boxscore,237.0,2.0,268.0,5.0,13  -  12
+2,Sun,1990-09-16,1:00PM,Detroit Lions,,Atlanta Falcons,boxscore,264.0,2.0,295.0,1.0,21  -  14
+2,Sun,1990-09-16,1:00PM,Miami Dolphins,,Buffalo Bills,boxscore,305.0,1.0,205.0,3.0,30  -  7
+2,Sun,1990-09-16,1:00PM,Chicago Bears,@,Green Bay Packers,boxscore,303.0,1.0,270.0,5.0,31  -  13
+2,Sun,1990-09-16,1:00PM,New York Jets,,Cleveland Browns,boxscore,362.0,0.0,259.0,2.0,24  -  21
+2,Sun,1990-09-16,1:00PM,New England Patriots,@,Indianapolis Colts,boxscore,310.0,1.0,207.0,5.0,16  -  14
+2,Sun,1990-09-16,1:00PM,Phoenix Cardinals,@,Philadelphia Eagles,boxscore,234.0,1.0,327.0,3.0,23  -  21
+2,Sun,1990-09-16,1:00PM,Los Angeles Rams,@,Tampa Bay Buccaneers,boxscore,389.0,0.0,255.0,2.0,35  -  14
+2,Sun,1990-09-16,4:00PM,Cincinnati Bengals,@,San Diego Chargers,boxscore,302.0,3.0,417.0,3.0,21  -  16
+2,Sun,1990-09-16,4:00PM,New York Giants,@,Dallas Cowboys,boxscore,369.0,3.0,156.0,4.0,28  -  7
+2,Sun,1990-09-16,4:00PM,Minnesota Vikings,,New Orleans Saints,boxscore,310.0,0.0,253.0,5.0,32  -  3
+2,Sun,1990-09-16,4:00PM,Los Angeles Raiders,@,Seattle Seahawks,boxscore,326.0,0.0,344.0,1.0,17  -  13
+2,Sun,1990-09-16,4:00PM,San Francisco 49ers,,Washington Redskins,boxscore,487.0,1.0,328.0,0.0,26  -  13
+2,Sun,1990-09-16,8:00PM,Pittsburgh Steelers,,Houston Oilers,boxscore,123.0,0.0,309.0,4.0,20  -  9
+2,Mon,1990-09-17,9:00PM,Denver Broncos,,Kansas City Chiefs,boxscore,399.0,2.0,441.0,1.0,24  -  23
+3,Sun,1990-09-23,1:00PM,Chicago Bears,,Minnesota Vikings,boxscore,255.0,1.0,285.0,2.0,19  -  16
+3,Sun,1990-09-23,1:00PM,Cincinnati Bengals,,New England Patriots,boxscore,346.0,2.0,302.0,5.0,41  -  7
+3,Sun,1990-09-23,1:00PM,San Diego Chargers,@,Cleveland Browns,boxscore,266.0,2.0,262.0,4.0,24  -  14
+3,Sun,1990-09-23,1:00PM,Houston Oilers,,Indianapolis Colts,boxscore,372.0,3.0,252.0,4.0,24  -  10
+3,Sun,1990-09-23,1:00PM,New Orleans Saints,,Phoenix Cardinals,boxscore,297.0,1.0,297.0,2.0,28  -  7
+3,Sun,1990-09-23,1:00PM,Washington Redskins,,Dallas Cowboys,boxscore,214.0,1.0,234.0,3.0,19  -  15
+3,Sun,1990-09-23,1:00PM,Kansas City Chiefs,@,Green Bay Packers,boxscore,271.0,1.0,257.0,4.0,17  -  3
+3,Sun,1990-09-23,1:00PM,New York Giants,,Miami Dolphins,boxscore,310.0,0.0,158.0,3.0,20  -  3
+3,Sun,1990-09-23,4:00PM,San Francisco 49ers,,Atlanta Falcons,boxscore,445.0,1.0,369.0,3.0,19  -  13
+3,Sun,1990-09-23,4:00PM,Denver Broncos,,Seattle Seahawks,boxscore,422.0,1.0,369.0,3.0,34  -  31
+3,Sun,1990-09-23,4:00PM,Philadelphia Eagles,@,Los Angeles Rams,boxscore,405.0,3.0,281.0,2.0,27  -  21
+3,Sun,1990-09-23,4:00PM,Los Angeles Raiders,,Pittsburgh Steelers,boxscore,273.0,1.0,208.0,3.0,20  -  3
+3,Sun,1990-09-23,8:00PM,Tampa Bay Buccaneers,,Detroit Lions,boxscore,323.0,1.0,307.0,2.0,23  -  20
+3,Mon,1990-09-24,9:00PM,Buffalo Bills,@,New York Jets,boxscore,451.0,1.0,249.0,2.0,30  -  7
+4,Sun,1990-09-30,1:00PM,Buffalo Bills,,Denver Broncos,boxscore,197.0,3.0,410.0,5.0,29  -  28
+4,Sun,1990-09-30,1:00PM,Indianapolis Colts,@,Philadelphia Eagles,boxscore,357.0,2.0,409.0,1.0,24  -  23
+4,Sun,1990-09-30,1:00PM,New York Giants,,Dallas Cowboys,boxscore,334.0,0.0,284.0,2.0,31  -  17
+4,Sun,1990-09-30,1:00PM,Green Bay Packers,@,Detroit Lions,boxscore,412.0,2.0,338.0,0.0,24  -  21
+4,Sun,1990-09-30,1:00PM,Miami Dolphins,@,Pittsburgh Steelers,boxscore,324.0,1.0,160.0,3.0,28  -  6
+4,Sun,1990-09-30,1:00PM,Tampa Bay Buccaneers,@,Minnesota Vikings,boxscore,336.0,1.0,414.0,2.0,23  -  20
+4,Sun,1990-09-30,4:00PM,Los Angeles Raiders,,Chicago Bears,boxscore,326.0,2.0,229.0,1.0,24  -  10
+4,Sun,1990-09-30,4:00PM,Kansas City Chiefs,,Cleveland Browns,boxscore,259.0,1.0,270.0,3.0,34  -  0
+4,Sun,1990-09-30,4:00PM,New York Jets,@,New England Patriots,boxscore,499.0,2.0,258.0,4.0,37  -  13
+4,Sun,1990-09-30,4:00PM,Houston Oilers,@,San Diego Chargers,boxscore,421.0,1.0,298.0,2.0,17  -  7
+4,Sun,1990-09-30,8:00PM,Washington Redskins,@,Phoenix Cardinals,boxscore,436.0,0.0,192.0,1.0,38  -  10
+4,Mon,1990-10-01,9:00PM,Seattle Seahawks,,Cincinnati Bengals,boxscore,352.0,2.0,230.0,2.0,31  -  16
+5,Sun,1990-10-07,1:00PM,Atlanta Falcons,,New Orleans Saints,boxscore,457.0,2.0,293.0,1.0,28  -  27
+5,Sun,1990-10-07,1:00PM,Indianapolis Colts,,Kansas City Chiefs,boxscore,231.0,3.0,255.0,4.0,23  -  19
+5,Sun,1990-10-07,1:00PM,Dallas Cowboys,,Tampa Bay Buccaneers,boxscore,304.0,1.0,271.0,1.0,14  -  10
+5,Sun,1990-10-07,1:00PM,Detroit Lions,@,Minnesota Vikings,boxscore,383.0,2.0,340.0,2.0,34  -  27
+5,Sun,1990-10-07,1:00PM,Miami Dolphins,,New York Jets,boxscore,334.0,0.0,342.0,0.0,20  -  16
+5,Sun,1990-10-07,1:00PM,Seattle Seahawks,@,New England Patriots,boxscore,338.0,2.0,274.0,5.0,33  -  20
+5,Sun,1990-10-07,1:00PM,San Francisco 49ers,@,Houston Oilers,boxscore,383.0,2.0,256.0,1.0,24  -  21
+5,Sun,1990-10-07,1:00PM,Pittsburgh Steelers,,San Diego Chargers,boxscore,374.0,1.0,188.0,3.0,36  -  14
+5,Sun,1990-10-07,4:00PM,Chicago Bears,,Green Bay Packers,boxscore,353.0,2.0,237.0,3.0,27  -  13
+5,Sun,1990-10-07,4:00PM,Cincinnati Bengals,@,Los Angeles Rams,boxscore,582.0,2.0,477.0,1.0,34  -  31
+5,Sun,1990-10-07,7:30PM,Buffalo Bills,,Los Angeles Raiders,boxscore,280.0,2.0,347.0,4.0,38  -  24
+5,Mon,1990-10-08,9:00PM,Cleveland Browns,@,Denver Broncos,boxscore,415.0,3.0,316.0,2.0,30  -  29
+6,Sun,1990-10-14,1:00PM,San Francisco 49ers,@,Atlanta Falcons,boxscore,492.0,2.0,394.0,2.0,45  -  35
+6,Sun,1990-10-14,1:00PM,Houston Oilers,,Cincinnati Bengals,boxscore,514.0,2.0,251.0,4.0,48  -  17
+6,Sun,1990-10-14,1:00PM,New Orleans Saints,,Cleveland Browns,boxscore,348.0,1.0,238.0,1.0,25  -  20
+6,Sun,1990-10-14,1:00PM,Kansas City Chiefs,,Detroit Lions,boxscore,566.0,1.0,328.0,2.0,43  -  24
+6,Sun,1990-10-14,1:00PM,Tampa Bay Buccaneers,,Green Bay Packers,boxscore,356.0,1.0,381.0,6.0,26  -  14
+6,Sun,1990-10-14,1:00PM,San Diego Chargers,@,New York Jets,boxscore,412.0,3.0,148.0,2.0,39  -  3
+6,Sun,1990-10-14,4:00PM,Phoenix Cardinals,,Dallas Cowboys,boxscore,414.0,2.0,100.0,3.0,20  -  3
+6,Sun,1990-10-14,4:00PM,New York Giants,@,Washington Redskins,boxscore,332.0,1.0,328.0,4.0,24  -  20
+6,Sun,1990-10-14,4:00PM,Pittsburgh Steelers,@,Denver Broncos,boxscore,451.0,2.0,244.0,1.0,34  -  17
+6,Sun,1990-10-14,4:00PM,Los Angeles Raiders,,Seattle Seahawks,boxscore,305.0,1.0,342.0,2.0,24  -  17
+6,Sun,1990-10-14,7:30PM,Chicago Bears,,Los Angeles Rams,boxscore,402.0,0.0,267.0,1.0,38  -  9
+6,Mon,1990-10-15,9:00PM,Philadelphia Eagles,,Minnesota Vikings,boxscore,347.0,2.0,273.0,6.0,32  -  24
+7,Thu,1990-10-18,8:00PM,Miami Dolphins,,New England Patriots,boxscore,279.0,5.0,197.0,0.0,17  -  10
+7,Sun,1990-10-21,1:00PM,Buffalo Bills,,New York Jets,boxscore,405.0,1.0,342.0,1.0,30  -  27
+7,Sun,1990-10-21,1:00PM,Denver Broncos,@,Indianapolis Colts,boxscore,444.0,1.0,363.0,1.0,27  -  17
+7,Sun,1990-10-21,1:00PM,Houston Oilers,,New Orleans Saints,boxscore,305.0,2.0,320.0,3.0,23  -  10
+7,Sun,1990-10-21,1:00PM,Washington Redskins,,Philadelphia Eagles,boxscore,321.0,0.0,270.0,1.0,13  -  7
+7,Sun,1990-10-21,1:00PM,Dallas Cowboys,@,Tampa Bay Buccaneers,boxscore,223.0,1.0,331.0,5.0,17  -  13
+7,Sun,1990-10-21,4:00PM,Los Angeles Rams,,Atlanta Falcons,boxscore,431.0,0.0,315.0,3.0,44  -  24
+7,Sun,1990-10-21,4:00PM,New York Giants,,Phoenix Cardinals,boxscore,321.0,2.0,221.0,0.0,20  -  19
+7,Sun,1990-10-21,4:00PM,Seattle Seahawks,,Kansas City Chiefs,boxscore,260.0,4.0,248.0,3.0,19  -  7
+7,Sun,1990-10-21,4:00PM,San Francisco 49ers,,Pittsburgh Steelers,boxscore,304.0,3.0,200.0,2.0,27  -  7
+7,Sun,1990-10-21,4:00PM,Los Angeles Raiders,@,San Diego Chargers,boxscore,289.0,1.0,289.0,0.0,24  -  9
+7,Mon,1990-10-22,9:00PM,Cincinnati Bengals,@,Cleveland Browns,boxscore,312.0,2.0,253.0,2.0,34  -  13
+8,Sun,1990-10-28,1:00PM,Buffalo Bills,@,New England Patriots,boxscore,353.0,0.0,262.0,3.0,27  -  10
+8,Sun,1990-10-28,1:00PM,Miami Dolphins,@,Indianapolis Colts,boxscore,356.0,1.0,132.0,4.0,27  -  7
+8,Sun,1990-10-28,1:00PM,Detroit Lions,@,New Orleans Saints,boxscore,262.0,1.0,269.0,8.0,27  -  10
+8,Sun,1990-10-28,1:00PM,Green Bay Packers,,Minnesota Vikings,boxscore,292.0,1.0,316.0,6.0,24  -  10
+8,Sun,1990-10-28,1:00PM,Philadelphia Eagles,@,Dallas Cowboys,boxscore,304.0,1.0,345.0,1.0,21  -  20
+8,Sun,1990-10-28,1:00PM,New York Jets,@,Houston Oilers,boxscore,229.0,1.0,425.0,2.0,17  -  12
+8,Sun,1990-10-28,4:00PM,Chicago Bears,@,Phoenix Cardinals,boxscore,382.0,1.0,331.0,1.0,31  -  21
+8,Sun,1990-10-28,4:00PM,New York Giants,,Washington Redskins,boxscore,263.0,0.0,213.0,3.0,21  -  10
+8,Sun,1990-10-28,4:00PM,San Francisco 49ers,,Cleveland Browns,boxscore,294.0,2.0,274.0,3.0,20  -  17
+8,Sun,1990-10-28,4:00PM,San Diego Chargers,,Tampa Bay Buccaneers,boxscore,314.0,1.0,157.0,7.0,41  -  10
+8,Sun,1990-10-28,8:00PM,Atlanta Falcons,,Cincinnati Bengals,boxscore,299.0,0.0,309.0,4.0,38  -  17
+8,Mon,1990-10-29,9:00PM,Pittsburgh Steelers,,Los Angeles Rams,boxscore,345.0,1.0,217.0,3.0,41  -  10
+9,Sun,1990-11-04,1:00PM,Pittsburgh Steelers,,Atlanta Falcons,boxscore,333.0,3.0,332.0,5.0,21  -  9
+9,Sun,1990-11-04,1:00PM,Miami Dolphins,,Phoenix Cardinals,boxscore,350.0,1.0,205.0,2.0,23  -  3
+9,Sun,1990-11-04,1:00PM,Washington Redskins,@,Detroit Lions,boxscore,676.0,4.0,351.0,1.0,41  -  38
+9,Sun,1990-11-04,1:00PM,San Francisco 49ers,@,Green Bay Packers,boxscore,445.0,0.0,321.0,1.0,24  -  20
+9,Sun,1990-11-04,1:00PM,Kansas City Chiefs,,Los Angeles Raiders,boxscore,169.0,1.0,234.0,3.0,9  -  7
+9,Sun,1990-11-04,1:00PM,Philadelphia Eagles,,New England Patriots,boxscore,514.0,2.0,288.0,1.0,48  -  20
+9,Sun,1990-11-04,1:00PM,New Orleans Saints,@,Cincinnati Bengals,boxscore,350.0,1.0,261.0,1.0,21  -  7
+9,Sun,1990-11-04,1:00PM,New York Jets,,Dallas Cowboys,boxscore,187.0,0.0,321.0,2.0,24  -  9
+9,Sun,1990-11-04,4:00PM,Buffalo Bills,@,Cleveland Browns,boxscore,310.0,0.0,234.0,2.0,42  -  0
+9,Sun,1990-11-04,4:00PM,Chicago Bears,@,Tampa Bay Buccaneers,boxscore,378.0,3.0,205.0,6.0,26  -  6
+9,Sun,1990-11-04,4:00PM,Los Angeles Rams,,Houston Oilers,boxscore,316.0,1.0,366.0,2.0,17  -  13
+9,Sun,1990-11-04,4:00PM,San Diego Chargers,@,Seattle Seahawks,boxscore,289.0,0.0,194.0,3.0,31  -  14
+9,Sun,1990-11-04,8:00PM,Minnesota Vikings,,Denver Broncos,boxscore,256.0,1.0,287.0,3.0,27  -  22
+9,Mon,1990-11-05,9:00PM,New York Giants,@,Indianapolis Colts,boxscore,274.0,2.0,181.0,1.0,24  -  7
+10,Sun,1990-11-11,1:00PM,Chicago Bears,,Atlanta Falcons,boxscore,287.0,2.0,276.0,5.0,30  -  24
+10,Sun,1990-11-11,1:00PM,Buffalo Bills,,Phoenix Cardinals,boxscore,360.0,2.0,127.0,4.0,45  -  14
+10,Sun,1990-11-11,1:00PM,Indianapolis Colts,@,New England Patriots,boxscore,155.0,0.0,247.0,1.0,13  -  10
+10,Sun,1990-11-11,1:00PM,Minnesota Vikings,@,Detroit Lions,boxscore,270.0,1.0,237.0,5.0,17  -  7
+10,Sun,1990-11-11,1:00PM,Seattle Seahawks,@,Kansas City Chiefs,boxscore,297.0,2.0,229.0,0.0,17  -  16
+10,Sun,1990-11-11,1:00PM,Miami Dolphins,@,New York Jets,boxscore,320.0,3.0,154.0,3.0,17  -  3
+10,Sun,1990-11-11,1:00PM,New Orleans Saints,,Tampa Bay Buccaneers,boxscore,295.0,2.0,199.0,3.0,35  -  7
+10,Sun,1990-11-11,4:00PM,San Diego Chargers,,Denver Broncos,boxscore,340.0,0.0,211.0,2.0,19  -  7
+10,Sun,1990-11-11,4:00PM,Green Bay Packers,@,Los Angeles Raiders,boxscore,256.0,1.0,165.0,4.0,29  -  16
+10,Sun,1990-11-11,4:00PM,New York Giants,@,Los Angeles Rams,boxscore,300.0,1.0,274.0,3.0,31  -  7
+10,Sun,1990-11-11,8:00PM,San Francisco 49ers,@,Dallas Cowboys,boxscore,388.0,2.0,158.0,2.0,24  -  6
+10,Mon,1990-11-12,9:00PM,Philadelphia Eagles,,Washington Redskins,boxscore,262.0,1.0,200.0,3.0,28  -  14
+11,Sun,1990-11-18,1:00PM,Philadelphia Eagles,@,Atlanta Falcons,boxscore,279.0,2.0,315.0,1.0,24  -  23
+11,Sun,1990-11-18,1:00PM,Buffalo Bills,,New England Patriots,boxscore,276.0,0.0,286.0,2.0,14  -  0
+11,Sun,1990-11-18,1:00PM,Houston Oilers,@,Cleveland Browns,boxscore,378.0,2.0,361.0,4.0,35  -  23
+11,Sun,1990-11-18,1:00PM,New York Giants,,Detroit Lions,boxscore,314.0,0.0,208.0,2.0,20  -  0
+11,Sun,1990-11-18,1:00PM,Kansas City Chiefs,,San Diego Chargers,boxscore,297.0,0.0,286.0,5.0,27  -  10
+11,Sun,1990-11-18,1:00PM,Washington Redskins,,New Orleans Saints,boxscore,423.0,1.0,367.0,4.0,31  -  17
+11,Sun,1990-11-18,4:00PM,Chicago Bears,@,Denver Broncos,boxscore,341.0,0.0,330.0,2.0,16  -  13
+11,Sun,1990-11-18,4:00PM,Indianapolis Colts,,New York Jets,boxscore,313.0,1.0,425.0,1.0,17  -  14
+11,Sun,1990-11-18,4:00PM,Green Bay Packers,@,Phoenix Cardinals,boxscore,375.0,2.0,441.0,2.0,24  -  21
+11,Sun,1990-11-18,4:00PM,Minnesota Vikings,@,Seattle Seahawks,boxscore,302.0,1.0,233.0,1.0,24  -  21
+11,Sun,1990-11-18,4:00PM,San Francisco 49ers,,Tampa Bay Buccaneers,boxscore,393.0,1.0,180.0,1.0,31  -  7
+11,Sun,1990-11-18,4:00PM,Dallas Cowboys,@,Los Angeles Rams,boxscore,359.0,1.0,292.0,1.0,24  -  21
+11,Sun,1990-11-18,8:00PM,Cincinnati Bengals,,Pittsburgh Steelers,boxscore,312.0,1.0,206.0,1.0,27  -  3
+11,Mon,1990-11-19,9:00PM,Los Angeles Raiders,@,Miami Dolphins,boxscore,293.0,0.0,213.0,0.0,13  -  10
+12,Thu,1990-11-22,12:30PM,Detroit Lions,,Denver Broncos,boxscore,421.0,1.0,284.0,2.0,40  -  27
+12,Thu,1990-11-22,4:00PM,Dallas Cowboys,,Washington Redskins,boxscore,370.0,2.0,297.0,1.0,27  -  17
+12,Sun,1990-11-25,1:00PM,New Orleans Saints,,Atlanta Falcons,boxscore,258.0,1.0,226.0,1.0,10  -  7
+12,Sun,1990-11-25,1:00PM,Minnesota Vikings,,Chicago Bears,boxscore,246.0,0.0,266.0,3.0,41  -  13
+12,Sun,1990-11-25,1:00PM,Indianapolis Colts,@,Cincinnati Bengals,boxscore,419.0,0.0,381.0,3.0,34  -  20
+12,Sun,1990-11-25,1:00PM,Miami Dolphins,@,Cleveland Browns,boxscore,356.0,0.0,294.0,2.0,30  -  13
+12,Sun,1990-11-25,1:00PM,Green Bay Packers,,Tampa Bay Buccaneers,boxscore,331.0,1.0,322.0,2.0,20  -  10
+12,Sun,1990-11-25,1:00PM,Philadelphia Eagles,,New York Giants,boxscore,405.0,2.0,327.0,2.0,31  -  13
+12,Sun,1990-11-25,4:00PM,Phoenix Cardinals,,New England Patriots,boxscore,363.0,1.0,256.0,2.0,34  -  14
+12,Sun,1990-11-25,4:00PM,Kansas City Chiefs,@,Los Angeles Raiders,boxscore,239.0,0.0,366.0,3.0,27  -  24
+12,Sun,1990-11-25,4:00PM,Los Angeles Rams,@,San Francisco 49ers,boxscore,350.0,2.0,291.0,6.0,28  -  17
+12,Sun,1990-11-25,4:00PM,Pittsburgh Steelers,@,New York Jets,boxscore,333.0,3.0,173.0,2.0,24  -  7
+12,Sun,1990-11-25,8:00PM,Seattle Seahawks,@,San Diego Chargers,boxscore,233.0,2.0,304.0,5.0,13  -  10
+12,Mon,1990-11-26,9:00PM,Houston Oilers,,Buffalo Bills,boxscore,411.0,1.0,289.0,1.0,27  -  24
+13,Sun,1990-12-02,1:00PM,Tampa Bay Buccaneers,,Atlanta Falcons,boxscore,373.0,3.0,374.0,4.0,23  -  17
+13,Sun,1990-12-02,1:00PM,Buffalo Bills,,Philadelphia Eagles,boxscore,393.0,1.0,357.0,2.0,30  -  23
+13,Sun,1990-12-02,1:00PM,Chicago Bears,,Detroit Lions,boxscore,361.0,0.0,296.0,2.0,23  -  17
+13,Sun,1990-12-02,1:00PM,Cincinnati Bengals,@,Pittsburgh Steelers,boxscore,319.0,3.0,305.0,2.0,16  -  12
+13,Sun,1990-12-02,1:00PM,Los Angeles Rams,@,Cleveland Browns,boxscore,411.0,1.0,303.0,1.0,38  -  23
+13,Sun,1990-12-02,1:00PM,Kansas City Chiefs,@,New England Patriots,boxscore,471.0,1.0,231.0,2.0,37  -  7
+13,Sun,1990-12-02,1:00PM,Washington Redskins,,Miami Dolphins,boxscore,467.0,1.0,252.0,2.0,42  -  20
+13,Sun,1990-12-02,4:00PM,Phoenix Cardinals,,Indianapolis Colts,boxscore,276.0,1.0,251.0,2.0,20  -  17
+13,Sun,1990-12-02,4:00PM,Los Angeles Raiders,@,Denver Broncos,boxscore,293.0,0.0,357.0,1.0,23  -  20
+13,Sun,1990-12-02,4:00PM,Seattle Seahawks,,Houston Oilers,boxscore,281.0,1.0,276.0,3.0,13  -  10
+13,Sun,1990-12-02,4:00PM,Dallas Cowboys,,New Orleans Saints,boxscore,274.0,1.0,283.0,1.0,17  -  13
+13,Sun,1990-12-02,4:00PM,San Diego Chargers,,New York Jets,boxscore,409.0,1.0,352.0,3.0,38  -  17
+13,Sun,1990-12-02,8:00PM,Minnesota Vikings,,Green Bay Packers,boxscore,286.0,0.0,190.0,5.0,23  -  7
+13,Mon,1990-12-03,9:00PM,San Francisco 49ers,,New York Giants,boxscore,240.0,0.0,221.0,1.0,7  -  3
+14,Sun,1990-12-09,1:00PM,Phoenix Cardinals,@,Atlanta Falcons,boxscore,361.0,2.0,318.0,4.0,24  -  13
+14,Sun,1990-12-09,1:00PM,Buffalo Bills,@,Indianapolis Colts,boxscore,408.0,1.0,127.0,3.0,31  -  7
+14,Sun,1990-12-09,1:00PM,San Francisco 49ers,@,Cincinnati Bengals,boxscore,372.0,1.0,215.0,1.0,20  -  17
+14,Sun,1990-12-09,1:00PM,Houston Oilers,,Cleveland Browns,boxscore,477.0,1.0,195.0,4.0,58  -  14
+14,Sun,1990-12-09,1:00PM,Seattle Seahawks,@,Green Bay Packers,boxscore,291.0,2.0,252.0,1.0,20  -  14
+14,Sun,1990-12-09,1:00PM,New York Giants,,Minnesota Vikings,boxscore,228.0,0.0,269.0,3.0,23  -  15
+14,Sun,1990-12-09,1:00PM,Pittsburgh Steelers,,New England Patriots,boxscore,417.0,3.0,182.0,3.0,24  -  3
+14,Sun,1990-12-09,4:00PM,Washington Redskins,,Chicago Bears,boxscore,288.0,5.0,288.0,3.0,10  -  9
+14,Sun,1990-12-09,4:00PM,Kansas City Chiefs,,Denver Broncos,boxscore,365.0,1.0,374.0,3.0,31  -  20
+14,Sun,1990-12-09,4:00PM,New Orleans Saints,@,Los Angeles Rams,boxscore,218.0,3.0,444.0,4.0,24  -  20
+14,Sun,1990-12-09,8:00PM,Miami Dolphins,,Philadelphia Eagles,boxscore,405.0,1.0,434.0,1.0,23  -  20
+14,Mon,1990-12-10,9:00PM,Los Angeles Raiders,@,Detroit Lions,boxscore,350.0,2.0,368.0,2.0,38  -  31
+15,Sat,1990-12-15,12:30PM,Buffalo Bills,@,New York Giants,boxscore,264.0,0.0,313.0,0.0,17  -  13
+15,Sat,1990-12-15,4:00PM,Washington Redskins,@,New England Patriots,boxscore,258.0,2.0,246.0,4.0,25  -  10
+15,Sun,1990-12-16,1:00PM,Cleveland Browns,,Atlanta Falcons,boxscore,348.0,2.0,260.0,0.0,13  -  10
+15,Sun,1990-12-16,1:00PM,Indianapolis Colts,@,New York Jets,boxscore,373.0,0.0,300.0,1.0,29  -  21
+15,Sun,1990-12-16,1:00PM,Dallas Cowboys,,Phoenix Cardinals,boxscore,354.0,3.0,200.0,4.0,41  -  10
+15,Sun,1990-12-16,1:00PM,Houston Oilers,@,Kansas City Chiefs,boxscore,563.0,1.0,350.0,2.0,27  -  10
+15,Sun,1990-12-16,1:00PM,Miami Dolphins,,Seattle Seahawks,boxscore,347.0,3.0,344.0,4.0,24  -  17
+15,Sun,1990-12-16,1:00PM,Tampa Bay Buccaneers,,Minnesota Vikings,boxscore,345.0,2.0,433.0,8.0,26  -  13
+15,Sun,1990-12-16,1:00PM,Pittsburgh Steelers,@,New Orleans Saints,boxscore,232.0,1.0,195.0,1.0,9  -  6
+15,Sun,1990-12-16,4:00PM,Los Angeles Raiders,,Cincinnati Bengals,boxscore,348.0,1.0,251.0,2.0,24  -  7
+15,Sun,1990-12-16,4:00PM,Denver Broncos,,San Diego Chargers,boxscore,320.0,0.0,390.0,2.0,20  -  10
+15,Sun,1990-12-16,4:00PM,Philadelphia Eagles,,Green Bay Packers,boxscore,422.0,0.0,158.0,2.0,31  -  0
+15,Sun,1990-12-16,8:00PM,Detroit Lions,,Chicago Bears,boxscore,411.0,3.0,225.0,2.0,38  -  21
+15,Mon,1990-12-17,9:00PM,San Francisco 49ers,@,Los Angeles Rams,boxscore,388.0,2.0,266.0,4.0,26  -  10
+16,Sat,1990-12-22,12:30PM,Detroit Lions,@,Green Bay Packers,boxscore,352.0,3.0,314.0,4.0,24  -  17
+16,Sat,1990-12-22,4:00PM,Los Angeles Raiders,@,Minnesota Vikings,boxscore,359.0,0.0,401.0,1.0,28  -  24
+16,Sat,1990-12-22,8:00PM,Indianapolis Colts,,Washington Redskins,boxscore,249.0,0.0,467.0,2.0,35  -  28
+16,Sun,1990-12-23,1:00PM,Atlanta Falcons,,Los Angeles Rams,boxscore,281.0,3.0,228.0,2.0,20  -  13
+16,Sun,1990-12-23,1:00PM,Buffalo Bills,,Miami Dolphins,boxscore,429.0,1.0,309.0,2.0,24  -  14
+16,Sun,1990-12-23,1:00PM,Chicago Bears,,Tampa Bay Buccaneers,boxscore,368.0,3.0,209.0,3.0,27  -  14
+16,Sun,1990-12-23,1:00PM,Cincinnati Bengals,,Houston Oilers,boxscore,387.0,0.0,304.0,4.0,40  -  20
+16,Sun,1990-12-23,1:00PM,Pittsburgh Steelers,,Cleveland Browns,boxscore,329.0,2.0,158.0,9.0,35  -  0
+16,Sun,1990-12-23,1:00PM,Philadelphia Eagles,,Dallas Cowboys,boxscore,276.0,3.0,199.0,4.0,17  -  3
+16,Sun,1990-12-23,1:00PM,New York Jets,,New England Patriots,boxscore,465.0,2.0,301.0,1.0,42  -  7
+16,Sun,1990-12-23,4:00PM,New York Giants,@,Phoenix Cardinals,boxscore,348.0,0.0,452.0,2.0,24  -  21
+16,Sun,1990-12-23,4:00PM,Kansas City Chiefs,@,San Diego Chargers,boxscore,368.0,0.0,255.0,2.0,24  -  21
+16,Sun,1990-12-23,4:00PM,New Orleans Saints,@,San Francisco 49ers,boxscore,194.0,2.0,334.0,4.0,13  -  10
+16,Sun,1990-12-23,8:00PM,Seattle Seahawks,,Denver Broncos,boxscore,213.0,1.0,246.0,2.0,17  -  12
+17,Sat,1990-12-29,12:30PM,Kansas City Chiefs,@,Chicago Bears,boxscore,383.0,2.0,176.0,3.0,21  -  10
+17,Sat,1990-12-29,4:00PM,Philadelphia Eagles,@,Phoenix Cardinals,boxscore,394.0,1.0,337.0,2.0,23  -  21
+17,Sun,1990-12-30,1:00PM,Atlanta Falcons,,Dallas Cowboys,boxscore,243.0,3.0,151.0,2.0,26  -  7
+17,Sun,1990-12-30,1:00PM,Washington Redskins,,Buffalo Bills,boxscore,299.0,1.0,273.0,4.0,29  -  14
+17,Sun,1990-12-30,1:00PM,Cincinnati Bengals,,Cleveland Browns,boxscore,302.0,3.0,345.0,3.0,21  -  14
+17,Sun,1990-12-30,1:00PM,Miami Dolphins,,Indianapolis Colts,boxscore,307.0,0.0,316.0,3.0,23  -  17
+17,Sun,1990-12-30,1:00PM,San Francisco 49ers,@,Minnesota Vikings,boxscore,402.0,1.0,279.0,1.0,20  -  17
+17,Sun,1990-12-30,1:00PM,New York Giants,@,New England Patriots,boxscore,324.0,1.0,258.0,2.0,13  -  10
+17,Sun,1990-12-30,4:00PM,Denver Broncos,,Green Bay Packers,boxscore,373.0,1.0,296.0,4.0,22  -  13
+17,Sun,1990-12-30,4:00PM,Seattle Seahawks,,Detroit Lions,boxscore,360.0,3.0,193.0,2.0,30  -  10
+17,Sun,1990-12-30,4:00PM,New York Jets,@,Tampa Bay Buccaneers,boxscore,317.0,1.0,238.0,3.0,16  -  14
+17,Sun,1990-12-30,4:00PM,Los Angeles Raiders,,San Diego Chargers,boxscore,248.0,0.0,271.0,1.0,17  -  12
+17,Sun,1990-12-30,8:00PM,Houston Oilers,,Pittsburgh Steelers,boxscore,427.0,1.0,299.0,2.0,34  -  14
+17,Mon,1990-12-31,8:00PM,New Orleans Saints,,Los Angeles Rams,boxscore,268.0,0.0,379.0,1.0,20  -  17
+,,Playoffs,,,,,,,,,,0  -  0
+WildCard,Sat,1991-01-05,12:30PM,Washington Redskins,@,Philadelphia Eagles,boxscore,299.0,2.0,318.0,3.0,20  -  6
+WildCard,Sat,1991-01-05,4:00PM,Miami Dolphins,,Kansas City Chiefs,boxscore,311.0,2.0,367.0,1.0,17  -  16
+WildCard,Sun,1991-01-06,12:30PM,Cincinnati Bengals,,Houston Oilers,boxscore,349.0,0.0,226.0,2.0,41  -  14
+WildCard,Sun,1991-01-06,4:00PM,Chicago Bears,,New Orleans Saints,boxscore,365.0,1.0,193.0,3.0,16  -  6
+Division,Sat,1991-01-12,12:30PM,Buffalo Bills,,Miami Dolphins,boxscore,493.0,2.0,430.0,3.0,44  -  34
+Division,Sat,1991-01-12,4:00PM,San Francisco 49ers,,Washington Redskins,boxscore,338.0,1.0,441.0,3.0,28  -  10
+Division,Sun,1991-01-13,12:30PM,New York Giants,,Chicago Bears,boxscore,288.0,1.0,232.0,2.0,31  -  3
+Division,Sun,1991-01-13,4:00PM,Los Angeles Raiders,,Cincinnati Bengals,boxscore,389.0,1.0,182.0,0.0,20  -  10
+ConfChamp,Sun,1991-01-20,12:30PM,Buffalo Bills,,Los Angeles Raiders,boxscore,502.0,1.0,320.0,7.0,51  -  3
+ConfChamp,Sun,1991-01-20,4:00PM,New York Giants,@,San Francisco 49ers,boxscore,311.0,0.0,240.0,1.0,15  -  13
+SuperBowl,Sun,1991-01-27,5:30PM,New York Giants,N,Buffalo Bills,boxscore,386.0,0.0,371.0,0.0,20  -  19
